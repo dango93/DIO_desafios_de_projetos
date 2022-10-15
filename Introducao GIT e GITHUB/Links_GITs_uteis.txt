@@ -1,0 +1,4 @@
+1. Site para acessar os repositórios GIT HUB ::		https://github.com
+2. Link para download do GIT ::			https://git-scm.com/downloads
+
+Considerações:  -- O GIT Bash é um terminal extendido para otimizar o uso dos repositórios anexados na plataforma GIT HUB.
