@@ -32,7 +32,9 @@ $ git commit -m "Escreva a sua mensagem sobre o que está sendo carregado"
 
 $ git push origin main 
 
+6. ATUALIZAR UM ARQUIVO LOCAL JÁ BAIXADO QUE ESTÁ DESATUALIZADO EM RELAÇÃO AO ARQUIVO QUE ESTÁ NO SITE.
 
+$ git pull
 --- Arquivo enviado. ;)  
 
 Basiquinho mesmo.
