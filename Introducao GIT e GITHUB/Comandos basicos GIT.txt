@@ -5,7 +5,7 @@ Comandos básicos para a mínima utilização do GIT em seus projetos.
 0.2 MUDAR DE PASTA:  $ cd [Nome_da_pasta_destino]/
 0.3 MOSTAR O QUE TÊM:  ls 
 
---> Trazer um arquivo
+-----> Trazer um arquivo
 
 1. CLONAGEM = copiar um repositório públicos do GITHUB junto com todos os seus arquivos para um repositório local (sua máquina).
 $ git clone [link do repositório]
